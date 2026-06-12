@@ -1,21 +1,21 @@
-# 📝 Random Quote Generator
+# Random Quote Generator
 
 A simple and interactive Random Quote Generator built using HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Features
 
 - Generate random inspirational quotes
 - Clean and responsive UI
 - One-click quote refresh
 - Beginner-friendly JavaScript project
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📂 Project Structure
+## Project Structure
 
 random-quote-generator/
 
@@ -27,13 +27,13 @@ random-quote-generator/
 
 └── README.md
 
-## ▶️ How to Run
+## How to Run
 
 1. Download or clone the repository.
 2. Open `index.html` in your browser.
 3. Click the button to generate a new quote.
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - DOM Manipulation
 - Event Handling
@@ -41,7 +41,7 @@ random-quote-generator/
 - Random Number Generation
 - Basic Frontend Development
 
-## 👩‍💻 Author
+## Author
 
 Sejal Adle
 
